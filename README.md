@@ -1,3 +1,3 @@
 # XboxCloudGamingApp
 Unofficial Xbox Cloud Gaming website running mainly on JavaScript
-![de:hub.de-Projekt](de_hub.jpg)
+![de:hub.de-Projekt](1.png)
